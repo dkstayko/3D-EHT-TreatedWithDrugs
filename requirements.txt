@@ -1,0 +1,9 @@
+anndata==0.11.4
+numpy==1.24.3
+scipy==1.10.1
+pandas==2.2.3
+igraph==0.10.4
+scanpy==1.11.5
+scikit_learn==1.2.0
+giotto_tda==0.6.0
+plotly==5.15.0
